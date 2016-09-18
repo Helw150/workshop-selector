@@ -1,0 +1,10 @@
+{
+  "name": "Workshop-Generator",
+  "main": "server.js",
+  "description": "A generator that allows individuals to find the workshop suited for them.",
+  "author": "Frederik Brinck Jensen",
+  "dependencies": {
+    "express": "*",
+    "nunjucks": "*"
+  }
+}
