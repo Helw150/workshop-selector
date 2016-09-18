@@ -16,6 +16,10 @@ The config.js makes up the configuration for workshop selector. There are three 
 
 Questions, reuse, forks, and improvements are more than welcome <3.
 
+Setup
+=====
+Clone the respository, change the configuration file and the index.html language to suit your needs. Then run it with `node server.js` on your server.
+
 License
 =======
 Distributed under the MIT license.
