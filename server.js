@@ -4,6 +4,7 @@ let nunjucks  = require('nunjucks'),
     express   = require('express'),
     app       = express();
 
+// Setup nun-jucks.
 nunjucks.configure('views', {
     autoescape: true,
     tags: {

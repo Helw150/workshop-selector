@@ -13,3 +13,9 @@ The config.js makes up the configuration for workshop selector. There are three 
  - Questions component: Contains an array of objects, where each object denotes a question id, the question itself, an error message and the options. Each option has a name and a unique value.
  - Suggestions component: An array of object where each object contains the workshops for the workshop slots denoted by the keys. Note that the order of the suggestions matters when identifying a combination with a suggestion.
  - Combinations component: A collection of objects and keys where the object suggestion value is paired with the suggestion entry in the suggestions component. The criteria is a list of lists, in which the list entry number correspond to the question number, and requires that the given value is select for this combination to be considered. If the list entry is an array, that means that multiple question selections will get accepted. If several of the combinations matches the selection, the first one that matches will be picked.
+
+Questions, reuse, forks, and improvements are more than welcome <3.
+
+License
+=======
+Distributed under the MIT license.
